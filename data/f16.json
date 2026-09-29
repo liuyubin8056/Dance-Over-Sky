@@ -1,0 +1,17 @@
+{
+  "name": "F-16C (游戏调参版)",
+  "notes": "不是型号真实数据，目标是在 6000m 高度、水平面内机动的简化模型里自洽：推重比 0.78、零升阻力面积 0.5m^2、角点速度约 250m/s。",
+  "mass_kg": 10000.0,
+  "wing_area_m2": 28.0,
+  "aspect_ratio": 3.2,
+  "oswald_efficiency": 0.8,
+  "cd0": 0.018,
+  "cl_alpha_per_rad": 4.5,
+  "cl_max": 1.5,
+  "max_load_factor_g": 9.0,
+  "thrust_max_n": 76000.0,
+  "thrust_curve_coeffs": null,
+  "turn_rate_max_dps": 30.0,
+  "icon": "images/f-16.png",
+  "icon_size_px": [72, 43]
+}
